@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simple Grading System</title>
+    </head>
+    <body>
+        <script>
+            /**
+             * De La Salle University–Dasmariñas
+             * College of Science and Computer Studies
+             * S-CSPC223LA — Programming Languages
+             * 
+             * Activity 1: Module 4
+             * Monday, April 15, 2024
+             * 
+             * Create a simple Grading System. Ask the user to input (using prompt) for Midterm Grade and Final Grade. The program then output (using alert) the Subject Grade, Equivalent and Remarks.
+             * 
+             * Luis Anton P. Imperial
+             * BCS22
+             **/
+
+            /* Create variables for grade inputs. */
+            let midtermGrade = parseFloat(prompt("Enter Midterm Grade:"));
+            let finalGrade = parseFloat(prompt("Enter Final Grade:"));
+
+            /* Compute overall grade and status. */
+            let subjectGrade = (midtermGrade + finalGrade) / 2;
+            let isSubjectPassed = subjectGrade >= 60 ? true : false;
+
+            /* Create Lasallian-style grading system. */
+            let lasallianGrade = 0.00;
+
+            if (subjectGrade >= 98) {lasallianGrade = 4.00}
+            else if (subjectGrade >= 95) {lasallianGrade = 3.75}
+            else if (subjectGrade >= 92) {lasallianGrade = 3.50}
+            else if (subjectGrade >= 89) {lasallianGrade = 3.25}
+            else if (subjectGrade >= 86) {lasallianGrade = 3.00}
+            else if (subjectGrade >= 83) {lasallianGrade = 2.75}
+            else if (subjectGrade >= 80) {lasallianGrade = 2.50}
+            else if (subjectGrade >= 77) {lasallianGrade = 2.25}
+            else if (subjectGrade >= 74) {lasallianGrade = 2.00}
+            else if (subjectGrade >= 71) {lasallianGrade = 1.75}
+            else if (subjectGrade >= 68) {lasallianGrade = 1.50}
+            else if (subjectGrade >= 64) {lasallianGrade = 1.25}
+            else if (subjectGrade >= 60) {lasallianGrade = 1.00}
+            else lasallianGrade = 0.00;
+
+            /* Fix LS grade to two decimals exactly. */
+            lasallianGrade = lasallianGrade.toFixed(2);
+
+            /* Output info about user’s grades. */
+            alert(`Your Subject Grade is: ${subjectGrade}.
+Your Equivalent Grade is: ${lasallianGrade}.
+Your Remark is: ${isSubjectPassed ? "PASSED": "FAILED"}.
+            `);
+        </script>
+    </body>
+</html>
