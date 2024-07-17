@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Classify Numbers</title>
+    </head>
+    <body>
+        <script>
+            /**
+             * De La Salle University–Dasmariñas
+             * College of Science and Computer Studies
+             * S-CSPC223LA — Programming Languages
+             * 
+             * Activity 2: Module 4
+             * Monday, April 22, 2024
+             * 
+             * Create a Java script program that let the user enter for a number, then the user will input integers based on the inputted number. The program will count the number of even, odd and zero numbers from the user's input. (use Loops).
+             * 
+             * Luis Anton P. Imperial
+             * BCS22
+             **/
+
+            /* Ask how many integers to request for. */
+            let integersAsked = Number(prompt("Enter a number:"));
+
+            /* Loop for input requests; place in array. */
+            let integers = [];
+            for (i = 1; i <= integersAsked; i++) {
+                integers.push(Number(prompt(`Input number #${i}:`)));
+            }
+
+            /* Check integer types. */
+            let evenCount = 0, oddCount = 0, zeroCount = 0;
+            for (i = 0; i < integersAsked; i++) {
+                if (integers[i] % 2 == 1) oddCount++
+                else if (integers[i] == 0) zeroCount++
+                else evenCount++;
+            }
+
+            /* Present statistics. */
+            alert(`The integers you have inputted are: ${integers}.
+
+Even Count: ${evenCount}.
+Odd Count: ${oddCount}.
+Zero Count: ${zeroCount}.`);
+        </script>
+    </body>
+</html>
