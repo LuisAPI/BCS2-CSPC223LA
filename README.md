@@ -1,4 +1,7 @@
 # BCS2-CSPC223LA
+
+![Header Image for Repository](https://github.com/LuisAPI/BCS2-CSPC223LA/blob/main/HEADER.png?raw=true)
+
 Assessments for the subject Programming Languages, 2nd Sem, 2nd Year of my 4-year journey into BSc in Computer Science.
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/LuisAPI/BCS2-CSPC223LA/static.yml)
