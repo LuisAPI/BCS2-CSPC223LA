@@ -19,6 +19,8 @@ Additionally, this repo can serve as a guide for future generations of students 
 
 This repository is maintained by Luis Anton P. Imperial, second-year BS Computer Science student at DLSU-D.
 
+[![Contributors](https://contrib.rocks/image?repo=LuisAPI/BCS2-CSPC223LA)](https://github.com/LuisAPI/BCS2-CSPC223LA/graphs/contributors)
+
 ## What outputs are included in this repository?
 
 ### Midterm period outputs
