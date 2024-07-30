@@ -36,3 +36,6 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 **Type encapsulation and manipulation script.** Understanding different types, such as Booleans, strings, integers and big numbers, are key to storing data in an efficient manner. We did multiple experiment to figure out their malleability and suitability for the applications we desired.
 
 **Module 2 Test.** We instilled in ourselves important JavaScript and general programming concepts, like types, global and local variables, and string directives for the interpreter.
+
+**Repetition of input requests.** Constant retrieval of new data is important to ensuring the relevance of the tools we write. Our fifth week of class had us insert a series of data blocks through the use of a common loop function.
+
