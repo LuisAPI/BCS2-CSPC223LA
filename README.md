@@ -39,3 +39,4 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 
 **Repetition of input requests.** Constant retrieval of new data is important to ensuring the relevance of the tools we write. Our fifth week of class had us insert a series of data blocks through the use of a common loop function.
 
+**Module 3 Test.** The class trawled back to past lessons regarding the acceptance of data elements in a repeated manner, and put our skills to the test.
