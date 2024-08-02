@@ -42,3 +42,5 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 **Module 3 Test.** The class trawled back to past lessons regarding the acceptance of data elements in a repeated manner, and put our skills to the test.
 
 **Market inventory management.** Our last practical activity for the midterm period assigned us to the creation of a system to manage the inventory of a storefront for fast-moving consumer goods. We were given two predetermined items to start with — a branded chocolate spread and a type of sweets — and were tasked to present the addition of twice more products.
+
+**Module 4 Quiz.** Ending the first two and a half months of grind, sweat and hard work, our culminating enabling assessment was held just after the Holy Week break, providing enough time to prepare for this scheduled deliverable.
