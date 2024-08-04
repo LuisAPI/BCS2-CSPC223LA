@@ -47,3 +47,4 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 
 ### Final period outputs
 
+**Academic grading system.** We created a script to represent our final result for the semester based on input values, alongside percentages and formulas provided by our instructor and our university’s website.
