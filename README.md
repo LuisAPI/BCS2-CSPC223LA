@@ -50,3 +50,5 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 **Academic grading system.** We created a script to represent our final result for the semester based on input values, alongside percentages and formulas provided by our instructor and our university’s website.
 
 **Numerical analysis tool.** Understanding the values we have makes us more in touch with the world around us. This document’s series of pop-ups accepts inputs of the Number type and provides a statistic the user may find helpful.
+
+**Module 5 Test.** Knowing more about ourselves as future computer scientists starts with an aptitude of the excellence we have in this field. This serves as our penultimate activity for the final term.
