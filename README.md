@@ -52,3 +52,7 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 **Numerical analysis tool.** Understanding the values we have makes us more in touch with the world around us. This document’s series of pop-ups accepts inputs of the Number type and provides a statistic the user may find helpful.
 
 **Module 5 Test.** Knowing more about ourselves as future computer scientists starts with an aptitude of the excellence we have in this field. This serves as our penultimate activity for the final term.
+
+**Module 6 Test.** And I did it again — a perfect score in a Cisco NetAcad LMS quiz. With faith and passion, everything is possible.
+
+The semester ended with an almighty 4.00 out of 4.00 grade point average in this subject.
