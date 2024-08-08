@@ -17,6 +17,8 @@ All activities done for laboratory sessions for the subject “Programming Langu
 
 Additionally, this repo can serve as a guide for future generations of students at De La Salle University–Dasmariñas, as to what to expect and what kinds of homework our instructor, Mr. Orlando Zapanta, will hand out to us.
 
+### Contributors to this repository
+
 This repository is maintained by Luis Anton P. Imperial, second-year BS Computer Science student at DLSU-D.
 
 [![Contributors](https://contrib.rocks/image?repo=LuisAPI/BCS2-CSPC223LA)](https://github.com/LuisAPI/BCS2-CSPC223LA/graphs/contributors)
