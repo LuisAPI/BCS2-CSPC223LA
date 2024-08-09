@@ -58,3 +58,5 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 **Module 6 Test.** And I did it again — a perfect score in a Cisco NetAcad LMS quiz. With faith and passion, everything is possible.
 
 The semester ended with an almighty 4.00 out of 4.00 grade point average in this subject.
+
+## On socials
