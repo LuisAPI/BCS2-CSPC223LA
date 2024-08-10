@@ -60,3 +60,5 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 The semester ended with an almighty 4.00 out of 4.00 grade point average in this subject.
 
 ## On socials
+
+- X (formerly Twitter): [@LuisAntonPI](https://x.com/luisantonpi)
