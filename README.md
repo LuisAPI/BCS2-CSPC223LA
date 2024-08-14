@@ -65,3 +65,4 @@ The semester ended with an almighty 4.00 out of 4.00 grade point average in this
 - Mastodon: [@LuisAPI1](https://mastodon.social/@LuisAPI1)
 - LinkedIn: [Luis Anton Imperial](https://linkedin.com/in/LuisAntonPI)
 - GitHub: [@LuisAPI](https://github.com/LuisAPI)
+- W3: [@LuisAntonPI](https://www.w3profile.com/LuisAntonPI)
