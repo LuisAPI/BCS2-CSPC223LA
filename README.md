@@ -59,6 +59,24 @@ This repository is maintained by Luis Anton P. Imperial, second-year BS Computer
 
 The semester ended with an almighty 4.00 out of 4.00 grade point average in this subject.
 
+## Skeletal structure
+
+```
+- midterm
+> - midterm-2024-01-29
+> > - CSPC223LA_MCP1_Code_Imperial.js
+> > - CSPC223LA_MCP1_Output_Imperial.png
+> > - CSPC223LA_MEA1_Quiz_Imperial_Take1_Q2.png
+> > - CSPC223LA_MEA1_Quiz_Imperial_Take1_Score.png
+> > - CSPC223LA_MEA1_Quiz_Imperial_Take2_Score.png
+> > - CSPC223LA_MEA2_Test_Imperial_Take1_Score.png
+> - midterm-2024-02-05
+> > - CSPC223LA_MEA3_Code_Imperial.js
+> > - CSPC223LA_MEA3_Task1_Imperial_Code1_Screen Shot 2024-02-05 at 8.54.27 AM.png
+> > - CSPC223LA_MEA3_Task1_Imperial_Code1_Screen Shot 2024-02-05 at 8.54.34 AM.png
+> > - CSPC223LA_MEA3_Task1_Imperial_Code1_Screen Shot 2024-02-05 at 8.54.38 AM.png
+```
+
 ## On socials
 
 - 𝕏 (formerly Twitter): [@LuisAntonPI](https://x.com/luisantonpi)
