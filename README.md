@@ -75,6 +75,11 @@ The semester ended with an almighty 4.00 out of 4.00 grade point average in this
 > > - CSPC223LA_MEA3_Task1_Imperial_Code1_Screen Shot 2024-02-05 at 8.54.27 AM.png
 > > - CSPC223LA_MEA3_Task1_Imperial_Code1_Screen Shot 2024-02-05 at 8.54.34 AM.png
 > > - CSPC223LA_MEA3_Task1_Imperial_Code1_Screen Shot 2024-02-05 at 8.54.38 AM.png
+> - midterm-2024-02-12
+> > - CSPC223LA_MEA4_Section 2 Task_Imperial.docx
+> > - CSPC223LA_MEA4_Section 2 Task_Imperial.pdf
+> - midterm-2024-02-19
+> > - CSPC223LA_MEA5_Module 2 Test_Imperial_Take1_Score_Screenshot 2024-02-19 081156.png
 ```
 
 ## On socials
