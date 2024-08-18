@@ -80,6 +80,15 @@ The semester ended with an almighty 4.00 out of 4.00 grade point average in this
 > > - CSPC223LA_MEA4_Section 2 Task_Imperial.pdf
 > - midterm-2024-02-19
 > > - CSPC223LA_MEA5_Module 2 Test_Imperial_Take1_Score_Screenshot 2024-02-19 081156.png
+> - midterm-2024-02-26
+> > - contactSelect.js
+> > - CSPC223LA_MEA6_Module 3 Lab Interaction_Imperial_Screenshot 2024-02-26 085305.png
+> > - CSPC223LA_MEA6_Module 3 Lab Interaction_Imperial_Screenshot 2024-02-26 085313.png
+> > - CSPC223LA_MEA6_Module 3 Lab Interaction_Imperial_Screenshot 2024-02-26 085332.png
+> > - CSPC223LA_MEA6_Module 3 Lab Interaction_Imperial_Screenshot 2024-02-26 085340.png
+> > - CSPC223LA_MEA6_Module 3 Lab Interaction_Imperial_Screenshots.docx
+> - midterm-2024-03-04
+> > - CSPC223LA_MEA7_Module 3 Test_Imperial_Take1_Screenshot 2024-03-10 201818.png
 ```
 
 ## On socials
