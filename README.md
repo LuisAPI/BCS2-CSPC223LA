@@ -112,6 +112,11 @@ The semester ended with an almighty 4.00 out of 4.00 grade point average in this
 > > - CSPC223LA_FEA2_Module_Imperial_Code.png
 > > - CSPC223LA_FEA2_Module_Imperial_Output1.png
 > > - CSPC223LA_FEA2_Module_Imperial_Output2.png
+> - final-2024-04-29
+> > - CSPC223LA_FEA4_Module 5 Test_Imperial_Score.png
+> - final-2024-05-06
+> > - CSPC223_Module6-Test.pdf
+> > - CSPC223LA_FEA4_Module 6 Test_Imperial_Score.png
 ```
 
 ## On socials
