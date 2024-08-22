@@ -62,6 +62,9 @@ The semester ended with an almighty 4.00 out of 4.00 grade point average in this
 ## Skeletal structure
 
 ```
+- README.md
+- LICENSE
+- HEADER.png
 - midterm
 > - midterm-2024-01-29
 > > - CSPC223LA_MCP1_Code_Imperial.js
